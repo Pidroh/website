@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Pidroh</title>
+ <link href="/site/atom.xml" rel="self"/>
+ <link href="/site/"/>
+ <updated>2021-09-25T12:39:18+09:00</updated>
+ <id></id>
+ <author>
+   <name>Pedro Gabriel Fonteles Furtado</name>
+   <email>gabrielpff2@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Working hard to improve Brave Ball's graphics</title>
+   <link href="/2021/09/25/new-graphics-for-brave-ball/"/>
+   <updated>2021-09-25T00:00:00+09:00</updated>
+   <id>/site/2021/09/25/new-graphics-for-brave-ball</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Tell us what you think of the new art direction for the scenario!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Pedro from Pidroh Games here! Hope everyone is doing fine!&lt;/p&gt;
+
+&lt;p&gt;Lately I have decided to improve the art direction for the scenario and made some experiments.
+You can see the 3 current ideas for areas we have in the gif below.
+&lt;img src=&quot;/assets/gameplay_scenariochange.gif&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We think the new balance of light, darkness and contrast makes the game easier to play.
+&lt;img src=&quot;/assets/SavedScreen202109240825214403.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
+&lt;img src=&quot;/assets/gameplayt.gif&quot; alt=&quot;My helpful screenshot&quot; /&gt;
+&lt;img src=&quot;/assets/lightmockupb.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
+&lt;img src=&quot;/assets/SavedScreen202109240828267823.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
+Do let us know if you have any thoughts on the direction we are going!&lt;/p&gt;
+&lt;iframe src=&quot;https://store.steampowered.com/widget/1638970/&quot; frameborder=&quot;0&quot; width=&quot;646&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+
+</feed>
