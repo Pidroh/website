@@ -4,13 +4,87 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-09-25T12:43:58+09:00</updated>
+ <updated>2021-09-26T10:31:33+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Project Planning for a single developer</title>
+   <link href="/2021/09/26/project-planning/"/>
+   <updated>2021-09-26T00:00:00+09:00</updated>
+   <id>/website/2021/09/26/project-planning</id>
+   <content type="html">&lt;h1 id=&quot;problem&quot;&gt;Problem&lt;/h1&gt;
+&lt;p&gt;I am trying to find a better way to structure the way I work as a single developer. 
+I find that I have a lot of “stuck thinking” time because I wear many hats at the same time. When I should be doing programming, I’ll sometimes be stuck thinking about game design or about the graphics. Or I’ll be stuck thinking “should I be doing something else?!”.&lt;/p&gt;
+
+&lt;p&gt;The good thing about working as a team is that people decide as a team and then you go do your work. If you think you should be working on something else, then you need to wait to talk about that in the next meeting. But if you’re a single developer you can be very agile and change what you are doing freely. This creates a lot of flexibility but it also makes a lot of things bad.&lt;/p&gt;
+
+&lt;h3 id=&quot;bad-performance-because-of-context-switching&quot;&gt;Bad performance because of context-switching&lt;/h3&gt;
+&lt;p&gt;thinking about project management or game design while I should be programming&lt;/p&gt;
+&lt;h3 id=&quot;wandering-in-the-desert&quot;&gt;Wandering in the desert&lt;/h3&gt;
+&lt;p&gt;Allowing me to change what I am doing in the heat of the moment or get stuck thinking about it makes it more likely I am not working towards the “vision of the project”&lt;/p&gt;
+&lt;h3 id=&quot;hard-to-commit&quot;&gt;Hard to commit&lt;/h3&gt;
+&lt;p&gt;I will sometimes schedule time for marketing but then make a decision that “I don’t need to do marketing lately because of X”, then go on to program.
+I think that by delaying that decision to later, I can make a more informed decision.&lt;/p&gt;
+
+&lt;h1 id=&quot;solution&quot;&gt;Solution&lt;/h1&gt;
+&lt;h3 id=&quot;weekly-public-management-blog&quot;&gt;Weekly public management blog&lt;/h3&gt;
+&lt;p&gt;Write weekly about how the week went and post times for each profession.&lt;/p&gt;
+
+&lt;h3 id=&quot;schedule-time-for-each-profession&quot;&gt;Schedule time for each profession&lt;/h3&gt;
+&lt;p&gt;Every profession should try to do only their minimal time, while the programmer can work as much as they want.
+If there is not enough time to do the work, they should write a note for the team meeting.&lt;/p&gt;
+&lt;h4 id=&quot;game-designer&quot;&gt;Game Designer&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Decides what will be put in the game&lt;/li&gt;
+  &lt;li&gt;Play tests, brainstorms, rebalances&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;programmer&quot;&gt;Programmer&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Programs functionality decided by the game designer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;automation-programmer&quot;&gt;Automation Programmer&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Programs functionality decided by the manager&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;marketer&quot;&gt;Marketer&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Writes blog posts&lt;/li&gt;
+  &lt;li&gt;Takes screenshots, gifs and videos&lt;/li&gt;
+  &lt;li&gt;Uploads builds&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;manager---team-meeting&quot;&gt;Manager - Team Meeting&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Checks if every job is doing their weekly time&lt;/li&gt;
+  &lt;li&gt;Rethinks how time should be spent in the project&lt;/li&gt;
+  &lt;li&gt;Decides what the automation programmer should make&lt;/li&gt;
+  &lt;li&gt;Assigns tasks to everyone&lt;/li&gt;
+  &lt;li&gt;Write the weekly write up&lt;/li&gt;
+  &lt;li&gt;Rethinks this whole team planning thing and considers if reverting to the flexible style is better&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;producer&quot;&gt;Producer&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Checks if the game is going according to vision&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Let us see how well this works hahahaha good luck, me.&lt;/p&gt;
+
+&lt;p&gt;If Brave Ball looks cool to you, please Wishlist!
+It &lt;strong&gt;really&lt;/strong&gt; helps.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://store.steampowered.com/widget/1638970/&quot; frameborder=&quot;0&quot; width=&quot;646&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Working hard to improve Brave Ball's graphics</title>
