@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-10-18T09:35:06+09:00</updated>
+ <updated>2021-10-18T09:37:05+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -19,11 +19,16 @@
    <id>/website/2021/10/18/october-w2</id>
    <content type="html">&lt;p&gt;So I guess the main news today is the first trial of the Level Up and XP system for Brave Ball. I am not sure if I want to go with fixed XP per level and weak enemies giving less XP, or if I just go with higher and higher XP flowing in. Right now I’ll just leave the higher and higher XP values.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;BE WARNED&lt;/strong&gt;
-&lt;strong&gt;THE PROTOTYPE IS VERY SIMPLE AND BORING. YOU KINDA JUST LEAVE IT RUNNING IN THE BROWSE AND YOU CAN ONLY CHOOSE WHICH AREA TO FIGHT IN&lt;/strong&gt;
-You can try it here: https://github.com/Pidroh/GenericRPGIdle
-However, the initial balance is bad! You’re gonna have a hard time before you get your first level up.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BE WARNED&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;THE PROTOTYPE IS VERY SIMPLE AND BORING. YOU KINDA JUST LEAVE IT RUNNING IN THE BROWSE AND YOU CAN ONLY CHOOSE WHICH AREA TO FIGHT IN&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can try it here: https://github.com/Pidroh/GenericRPGIdle&lt;/p&gt;
+
+&lt;p&gt;However, the initial balance is bad! You’re gonna have a hard time before you get your first level up.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
 &lt;p&gt;Here is the time table for this week (week 41 of 2021):&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021-10 W:41 manager    :  1:28:00
