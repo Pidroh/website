@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-10-26T08:21:45+09:00</updated>
+ <updated>2021-10-26T08:26:50+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>October 2nd Week: Development is going!</title>
+   <title>October 3nd Week: No stops!</title>
    <link href="/2021/10/26/october-w3/"/>
    <updated>2021-10-26T00:00:00+09:00</updated>
    <id>/website/2021/10/26/october-w3</id>
@@ -38,7 +38,7 @@
 &lt;p&gt;This week I got way more work in. This post, though, was supposed to be posted yesterday, so that is bad.
 Marketing and designer time went up. I was kinda lost during that designer time, so I’m not sure if it was quality time being spent, but maybe it was necessary.&lt;/p&gt;
 
-&lt;p&gt;I have stopped a bit on the RPG mechanics and started to create the code for the story.&lt;/p&gt;
+&lt;p&gt;I have stopped a bit on the RPG mechanics and started to create the code for the story. Hopefully I can get story cutscenes working before Friday but that may be tough.&lt;/p&gt;
 </content>
  </entry>
  
