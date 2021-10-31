@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-11-01T08:26:52+09:00</updated>
+ <updated>2021-11-01T08:37:18+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,11 +13,11 @@
 
  
  <entry>
-   <title>October 3nd Week: No stops!</title>
+   <title>October 4th Week: Keeps going</title>
    <link href="/2021/11/01/october-w4/"/>
    <updated>2021-11-01T00:00:00+09:00</updated>
    <id>/website/2021/11/01/october-w4</id>
-   <content type="html">&lt;p&gt;A very normal week hahaha. I added swords to my simple prototype.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Normal week hahaha I added armors and more stats to my prototype.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;BE WARNED&lt;/strong&gt;&lt;/p&gt;
 
@@ -25,20 +25,21 @@
 
 &lt;p&gt;You can try it here: https://github.com/Pidroh/GenericRPGIdle&lt;/p&gt;
 
-&lt;hr /&gt;
-&lt;hr /&gt;
-&lt;p&gt;Here is the time table for this week (week 42 of 2021):&lt;/p&gt;
+&lt;p&gt;Some users found bugs that I have no idea how to fix :( sad&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021-10 W:42 manager    :  1:50:00
-2021-10 W:42 marketing  :  5:08:00
-2021-10 W:42 hrpg       : 1 day, 6:47:00
-2021-10 W:42 designer   :  6:57:00
-2021-10 W:42 auto       :  0:50:00
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here is the time table for this week (week 43 of 2021):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021-10 W:43 design     :  0:11:00
+2021-10 W:43 hrpg       : 22:55:00
+2021-10 W:43 manager    :  0:55:00
+2021-10 W:43 marketing  :  6:09:00
+2021-10 W:43 auto       :  0:27:00
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;This week I got way more work in. This post, though, was supposed to be posted yesterday, so that is bad.
-Marketing and designer time went up. I was kinda lost during that designer time, so I’m not sure if it was quality time being spent, but maybe it was necessary.&lt;/p&gt;
+&lt;p&gt;My times are back to normal hahahaha no more 30 hour programming in a week. Makes sense! I had to stop by the hospital too, which is a huge time drain.&lt;/p&gt;
 
-&lt;p&gt;I have stopped a bit on the RPG mechanics and started to create the code for the story. Hopefully I can get story cutscenes working before Friday but that may be tough.&lt;/p&gt;
+&lt;p&gt;While I have some cutscenes in the game, I’m expanding on that. Also having more clearly defined, visible goals in the game.&lt;/p&gt;
 </content>
  </entry>
  
