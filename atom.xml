@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-11-01T08:37:18+09:00</updated>
+ <updated>2021-11-09T08:35:02+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,10 +13,44 @@
 
  
  <entry>
+   <title>November 1st Week: A bit back to Brave Ball</title>
+   <link href="/2021/11/09/november-w1/"/>
+   <updated>2021-11-09T00:00:00+09:00</updated>
+   <id>/website/2021/11/09/november-w1</id>
+   <content type="html">&lt;p&gt;Added new bosses to the prototype!!! They give permanent stat upgrades. I did add further cutscenes to the game, but stopped myself from adding goals. The reason for that is because adding goals would make for a better game, I might not use it in Brave Ball. I might reconsider adding a similar system to Brave Ball though.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BE WARNED&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;THE PROTOTYPE IS VERY SIMPLE AND BORING. YOU KINDA JUST LEAVE IT RUNNING IN THE BROWSE, CHOOSE YOUR EQUIPMENT AND WHERE TO FIGHT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can try it here: https://github.com/Pidroh/GenericRPGIdle&lt;/p&gt;
+
+&lt;p&gt;I also wrote all the cutscenes that will be in the Brave Ball demo! It was super fun.
+Now I need to write code to integrate the cutscenes with the map. Not sure if I should write new map code in Haxe and do the integration in Haxe… Or move over to C# and do it there.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here is the time table for this week (week 43 of 2021):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021-11 W:44 hrpg       : 26:33:00
+2021-11 W:44 marketing  :  3:47:00
+2021-11 W:44 manager    :  3:20:00
+2021-11 W:44 auto       :  0:30:00
+2021-11 W:44 turn       : 12:28:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;26 hours programming the prototype and 12 hours planning and writing cutscenes for Brave Ball! Not bad!
+Right now I’m adding a prestige system to HRPG, which might make it into Brave Ball. This Saturday I’ll make a decision on where to integrate the cutscenes to the map.&lt;/p&gt;
+
+&lt;p&gt;Let’s go!!!!!!!!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>October 4th Week: Keeps going</title>
-   <link href="/2021/11/01/october-w4/"/>
+   <link href="/2021/11/01/october-w4-Copy/"/>
    <updated>2021-11-01T00:00:00+09:00</updated>
-   <id>/website/2021/11/01/october-w4</id>
+   <id>/website/2021/11/01/october-w4 - Copy</id>
    <content type="html">&lt;p&gt;Normal week hahaha I added armors and more stats to my prototype.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;BE WARNED&lt;/strong&gt;&lt;/p&gt;
