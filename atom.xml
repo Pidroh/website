@@ -4,13 +4,46 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-11-09T08:56:15+09:00</updated>
+ <updated>2021-11-15T08:05:13+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>November 2st Week: Generic RPG Idle battle system entering the last phase</title>
+   <link href="/2021/11/15/november-w2/"/>
+   <updated>2021-11-15T00:00:00+09:00</updated>
+   <id>/website/2021/11/15/november-w2</id>
+   <content type="html">&lt;p&gt;I have added a prestige system to Generic RPG to make the game a bit more dynamic. It plays well with the newly added bosses, I think.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BE WARNED&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;THE PROTOTYPE IS VERY SIMPLE AND BORING. YOU KINDA JUST LEAVE IT RUNNING IN THE BROWSE, CHOOSE YOUR EQUIPMENT AND WHERE TO FIGHT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can try it here: https://github.com/Pidroh/GenericRPGIdle&lt;/p&gt;
+
+&lt;p&gt;I have finished the full specification for the RPG systems in Brave Ball! With this in hand, I now have the long road ahead of implementing all of those systems in Generic RPG Idle. I have also decided to do the map system in Haxe. A lot of development will be happening there, I want to develop it in an easier to prototype environment.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here is the time table for this week (week 45 of 2021):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021-11 W:45 hrpg       : 23:21:00
+2021-11 W:45 manager    :  0:25:00
+2021-11 W:45 marketing  :  4:56:00
+2021-11 W:45 burocracy  :  2:46:00
+2021-11 W:45 designer   : 11:23:00
+2021-11 W:45 auto       :  0:24:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Less programming. 11 hours of me thinking and writing down the systems for Brave Ball! 23 hours for Generic RPG, not bad.&lt;/p&gt;
+
+&lt;p&gt;Let’s go!!!!!!!!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>November 1st Week: Back to Brave Ball a bit</title>
