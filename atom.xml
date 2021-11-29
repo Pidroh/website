@@ -4,13 +4,43 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-11-22T21:41:00+09:00</updated>
+ <updated>2021-11-29T19:25:47+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>November 4th Week: Generic RPG Idle Skill Sets and Magic Points</title>
+   <link href="/2021/11/29/november-w4/"/>
+   <updated>2021-11-29T00:00:00+09:00</updated>
+   <id>/website/2021/11/29/november-w4</id>
+   <content type="html">&lt;p&gt;This was a big change towards making the game more active (not sure on how well it worked though lol).
+Now you have multiple sets of skill to choose from and you have to manually use skills during battle. You can defeat some bosses faster and stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BE WARNED&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;THE PROTOTYPE IS VERY SIMPLE AND BORING. YOU KINDA JUST LEAVE IT RUNNING IN THE BROWSE, CHOOSE YOUR EQUIPMENT AND WHERE TO FIGHT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can try it here: https://github.com/Pidroh/GenericRPGIdle&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here is the time table for this week (week 47 of 2021):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021-11 W:47 hrpg       :  1 day, 13:06:00
+2021-11 W:47 marketing  :  0:18:00
+2021-11 W:47 designer   :  3:15:00
+2021-11 W:47 burocracy  :  0:38:00
+2021-11 W:47 manager    :  6:04:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;37 hours programming, it was productive too compared to last week. The 6 hours in manager and designer are trying to decide on how to handle the post game and how to add money to the game.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>November 3rd Week: Generic RPG Idle item system revamp</title>
