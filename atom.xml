@@ -4,13 +4,42 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-12-06T07:11:31+09:00</updated>
+ <updated>2021-12-13T17:20:56+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>December 2nd Week: Taking a bit more time to release the new version</title>
+   <link href="/2021/12/13/december-w2/"/>
+   <updated>2021-12-13T00:00:00+09:00</updated>
+   <id>/website/2021/12/13/december-w2</id>
+   <content type="html">&lt;p&gt;IN DEVELOPMENT: The ability to upgrade equipment. A new dark color scheme of the UI.
+I might add an option for going back to the old color scheme if there is a wish for it.&lt;/p&gt;
+
+&lt;p&gt;While the game hasn’t changed from last week, you can try it here: https://github.com/Pidroh/GenericRPGIdle&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here is the time table for this week (week 49 of 2021):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021 W:49 hrpg       : 1 day, 1:09:00
+2021 W:49 marketing  :  3:41:00
+2021 W:49 burocracy  :  0:59:00
+2021 W:49 designer   :  1:25:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;25 hours programming, not so bad. A little bit less work done this week. I was kinda busy in the weekend.&lt;/p&gt;
+
+&lt;p&gt;I ended up delaying elemental spells to focus on upgrading equipment. So the last battle system expansion will be the elemental spells. That will likely come with an overhaul of Lagrima Continent, maybe.&lt;/p&gt;
+
+&lt;p&gt;I’m typing this from the hospital. My surgery is tomorrow. The hospital is pretty confortable so I guess I can get a lot of work done!&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>December 1st Week: Polish+ and Rebalance!</title>
