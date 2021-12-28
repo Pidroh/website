@@ -4,13 +4,35 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-12-20T15:20:23+09:00</updated>
+ <updated>2021-12-28T17:00:25+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>December 4th Week: Merry Christmas!!</title>
+   <link href="/2021/12/28/december-w4/"/>
+   <updated>2021-12-28T00:00:00+09:00</updated>
+   <id>/website/2021/12/28/december-w4 </id>
+   <content type="html">&lt;p&gt;Elemental skills and equipment sets implemented in the game!&lt;/p&gt;
+
+&lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/
+&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_
+&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_
+Here is the time table for this week (week 51 of 2021):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021 W:51 auto       :  9:04:00
+2021 W:51 manager    :  0:28:00
+2021 W:51 hrpg       : 21:44:00
+2021 W:51 designer   :  4:44:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I spent a lot of time working on a new build system to handle the multiple versions of the game. It’s in multiple sites now. I have also spent way too much time thinking about the graphics of the game. I’ll have to rethink everything going forward with the game when I add more cutscenes to the game.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>December 3rd Week: Released on Itch IO and I am out of the hospital!</title>
