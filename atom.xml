@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2021-12-28T17:00:25+09:00</updated>
+ <updated>2022-01-05T19:59:59+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,16 +13,49 @@
 
  
  <entry>
+   <title>January 1st Week: HAPPY NEW YEAR!</title>
+   <link href="/2022/01/05/january-w1/"/>
+   <updated>2022-01-05T00:00:00+09:00</updated>
+   <id>/website/2022/01/05/january-w1</id>
+   <content type="html">&lt;p&gt;I’m working hard on a new update for the game that will change the UI and the looks of the game big time. 
+While I’m getting that ready, there aren’t any updates in the game for now.&lt;/p&gt;
+
+&lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 1 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021 W:52 hrpg       : 20:19:00
+2021 W:52 marketing  :  2:14:00
+2022 W:52 hrpg       :  5:18:00
+2022 W:52 manager    :  0:50:00
+2022 W:52 designer   :  4:34:00
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It’s a bit confusing but I guess I got 25 hours in of working on Generic RPG Idle. Not bad.&lt;/p&gt;
+
+&lt;p&gt;I plan to finish the artwork rework soon. The problem is that it will come with a bunch of broken stuff that will need fixing. Maybe the next build will only come in two weeks.&lt;/p&gt;
+
+&lt;p&gt;HAPPY NEW YEAR!!!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>December 4th Week: Merry Christmas!!</title>
    <link href="/2021/12/28/december-w4/"/>
    <updated>2021-12-28T00:00:00+09:00</updated>
-   <id>/website/2021/12/28/december-w4 </id>
+   <id>/website/2021/12/28/december-w4</id>
    <content type="html">&lt;p&gt;Elemental skills and equipment sets implemented in the game!&lt;/p&gt;
 
-&lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/
-&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_
-&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_
-Here is the time table for this week (week 51 of 2021):&lt;/p&gt;
+&lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 51 of 2021):&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021 W:51 auto       :  9:04:00
 2021 W:51 manager    :  0:28:00
@@ -42,10 +75,12 @@ Here is the time table for this week (week 51 of 2021):&lt;/p&gt;
    <content type="html">&lt;p&gt;Upgrading equipment and the dark theme is in the Itch IO version! I’ll upload the github version later. 
 I have developed a system for magical skills and elemental damage. I am working on revising the UI.&lt;/p&gt;
 
-&lt;p&gt;You can try the Itch IO version here: https://pidroh.itch.io/generic-rpg-idle
-&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_
-&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_
-Here is the time table for this week (week 50 of 2021):&lt;/p&gt;
+&lt;p&gt;You can try the Itch IO version here: https://pidroh.itch.io/generic-rpg-idle&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 50 of 2021):&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021 W:50 hrpg       : 30:51:00
 2021 W:50 marketing  :  1:04:00
@@ -72,6 +107,7 @@ I might add an option for going back to the old color scheme if there is a wish 
 
 &lt;hr /&gt;
 &lt;hr /&gt;
+
 &lt;p&gt;Here is the time table for this week (week 49 of 2021):&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2021 W:49 hrpg       : 1 day, 1:09:00
