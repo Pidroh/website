@@ -4,13 +4,39 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-01-10T19:15:49+09:00</updated>
+ <updated>2022-01-17T08:08:25+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>January 2nd Week - Next version still in development!</title>
+   <link href="/2022/01/17/january-w3/"/>
+   <updated>2022-01-17T00:00:00+09:00</updated>
+   <id>/website/2022/01/17/january-w3</id>
+   <content type="html">&lt;p&gt;Things are the same as last week! Still working hard on the new update for the game that will change the UI and the looks of the game big time. 
+While I’m getting that ready, there aren’t any updates in the game for now.&lt;/p&gt;
+
+&lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 1 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:01 hrpg       :  34:32:00
+2022 W:01 manager    :  2:37:00
+2022 W:01 marketing  :  0:31:00
+2022 W:01 designer   :  0:20:00
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Got 34 hours in. I’m almost done with the new version. Should be coming next week. Where I live is getting pretty cold, hope everyone is safe during these times.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>January 2nd Week - Next version still in development!</title>
