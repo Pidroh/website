@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-01-24T21:37:41+09:00</updated>
+ <updated>2022-01-24T21:37:58+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -35,9 +35,11 @@ B) port generic RPG to that&lt;/p&gt;
 2022 W:03 manager    :  5:28:00
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Got 25 hours in generic rpg idle. A lot less than last week. This weekend I was pretty busy so I guess that is the reason. I was planning to port GRI to consoles, but that idea went north as I found out that the Haxe UI ecosystem isn’t that robust. Trying to figure out what I want to aim for in this year. Having trouble.&lt;/p&gt;
+&lt;p&gt;So I got 37 hours in on GRI. It’s pretty easy to get a lot of hours in when you’re trying to implement a basic rendering engine and I keep moving between libraries. My concentration goes up the roof lol. Currently, I went from:&lt;/p&gt;
 
-&lt;p&gt;We’ll see how it goes!&lt;/p&gt;
+&lt;p&gt;Haxe UI =&amp;gt; Pure KHA =&amp;gt; Haxe JS Canvas =&amp;gt; Haxe Phaser.js&lt;/p&gt;
+
+&lt;p&gt;Haxe Phaser.js does seem to be the best option for targetting browsers, so I guess I’ll keep going with that. Hope I don’t hit any roadblocks :(&lt;/p&gt;
 </content>
  </entry>
  
