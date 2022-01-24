@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-01-17T08:08:25+09:00</updated>
+ <updated>2022-01-24T21:37:41+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,28 +13,59 @@
 
  
  <entry>
-   <title>January 2nd Week - Next version still in development!</title>
+   <title>January 4th Week - R&D Week!</title>
+   <link href="/2022/01/24/january-w4/"/>
+   <updated>2022-01-24T00:00:00+09:00</updated>
+   <id>/website/2022/01/24/january-w4</id>
+   <content type="html">&lt;p&gt;So last week we pushed a big update on Steam. This week, though… I have recently discovered that using Haxe UI for a console release would be a bit shaky. So I decided to:&lt;/p&gt;
+
+&lt;p&gt;A) Create my own highly portable UI system
+B) port generic RPG to that&lt;/p&gt;
+
+&lt;p&gt;And things have been messy.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 3 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:03 hrpg       :  37:21:00
+2022 W:03 housework  :  0:59:00
+2022 W:03 marketing  :  3:52:00
+2022 W:03 manager    :  5:28:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Got 25 hours in generic rpg idle. A lot less than last week. This weekend I was pretty busy so I guess that is the reason. I was planning to port GRI to consoles, but that idea went north as I found out that the Haxe UI ecosystem isn’t that robust. Trying to figure out what I want to aim for in this year. Having trouble.&lt;/p&gt;
+
+&lt;p&gt;We’ll see how it goes!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>January 3rd Week - New Update & Steam Page is up!</title>
    <link href="/2022/01/17/january-w3/"/>
    <updated>2022-01-17T00:00:00+09:00</updated>
    <id>/website/2022/01/17/january-w3</id>
-   <content type="html">&lt;p&gt;Things are the same as last week! Still working hard on the new update for the game that will change the UI and the looks of the game big time. 
-While I’m getting that ready, there aren’t any updates in the game for now.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Big update on the UI and the Steam page is up!!&lt;/p&gt;
 
 &lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/&lt;/p&gt;
 
+&lt;p&gt;A lot of hover information, turn-order visualization, and other goodies came with the new UI.&lt;/p&gt;
+
 &lt;hr /&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;Here is the time table for this week (week 1 of 2022):&lt;/p&gt;
+&lt;p&gt;Here is the time table for this week (week 2 of 2022):&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:01 hrpg       :  34:32:00
-2022 W:01 manager    :  2:37:00
-2022 W:01 marketing  :  0:31:00
-2022 W:01 designer   :  0:20:00
-
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:02 hrpg       :  25:26:00
+2022 W:02 manager    :  2:39:00
+2022 W:02 marketing  :  1:07:00
+2022 W:02 designer   :  6:04:00
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Got 34 hours in. I’m almost done with the new version. Should be coming next week. Where I live is getting pretty cold, hope everyone is safe during these times.&lt;/p&gt;
+&lt;p&gt;Got 25 hours in generic rpg idle. A lot less than last week. This weekend I was pretty busy so I guess that is the reason. I was planning to port GRI to consoles, but that idea went north as I found out that the Haxe UI ecosystem isn’t that robust. Trying to figure out what I want to aim for in this year. Having trouble.&lt;/p&gt;
+
+&lt;p&gt;We’ll see how it goes!&lt;/p&gt;
 </content>
  </entry>
  
