@@ -4,13 +4,44 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-01-31T07:43:18+09:00</updated>
+ <updated>2022-02-07T09:27:26+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>February 1st Week - Slowly remaking</title>
+   <link href="/2022/02/07/February-w1/"/>
+   <updated>2022-02-07T00:00:00+09:00</updated>
+   <id>/website/2022/02/07/February-w1</id>
+   <content type="html">&lt;p&gt;Made some great progress on the equipment screen. I also implemented some requests from players to the on-air version.&lt;/p&gt;
+
+&lt;p&gt;You can try the original version here: https://github.com/Pidroh/GenericRPGIdle&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 4 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:05 hrpg       :  28:31:00
+2022 W:05 marketing  :  3:00:00
+2022 W:05 manager    :  2:15:00
+2022 W:05 designer   :  0:00:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;37 hours in on GRI again! Once again, good numbers!&lt;/p&gt;
+
+&lt;p&gt;So my path has been:
+Haxe UI =&amp;gt; Pure KHA =&amp;gt; Haxe JS Canvas =&amp;gt; Haxe Phaser.js&lt;/p&gt;
+
+&lt;p&gt;And I think I’ll stick with Phaser, it seems to be reliable. Steam will probably use Electron. If I port to consoles, then I guess I’ll port to Unity.&lt;/p&gt;
+
+&lt;p&gt;February is here! And also, happy Chinese new year to those who celebrate it!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>January 5th Week - Remaking!</title>
