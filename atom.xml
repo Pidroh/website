@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-02-14T09:42:48+09:00</updated>
+ <updated>2022-02-14T09:45:20+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>February 2nd Week - Slowly remaking II</title>
+   <title>February 2nd Week - Slowly remaking (II)</title>
    <link href="/2022/02/14/February-w2/"/>
    <updated>2022-02-14T00:00:00+09:00</updated>
    <id>/website/2022/02/14/February-w2</id>
@@ -23,8 +23,11 @@
 
 &lt;p&gt;Some pictures to illustrate how it is going:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/website/assets/original_2_14.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
+&lt;p&gt;&lt;strong&gt;Current Graphics&lt;/strong&gt;
+&lt;img src=&quot;/website/assets/original_2_14.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
+&lt;strong&gt;Mockup (the goal)&lt;/strong&gt;
 &lt;img src=&quot;/website/assets/mockup_2_14.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
+&lt;strong&gt;In progress&lt;/strong&gt;
 &lt;img src=&quot;/website/assets/remake_2_14.png&quot; alt=&quot;My helpful screenshot&quot; /&gt;
 &lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_
 &lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_&lt;/p&gt;
