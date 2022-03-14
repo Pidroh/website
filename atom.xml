@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-03-07T19:38:56+09:00</updated>
+ <updated>2022-03-14T16:16:30+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,31 +13,56 @@
 
  
  <entry>
-   <title>February 4th Week - Slowly remaking (IV)</title>
-   <link href="/2022/03/07/March-w1/"/>
-   <updated>2022-03-07T00:00:00+09:00</updated>
-   <id>/website/2022/03/07/March-w1</id>
-   <content type="html">&lt;p&gt;I added a title screen to the remake version. I have also posted the remake version directly on Feedback Friday for the first time. Got me nervous there.&lt;/p&gt;
+   <title>March 2nd Week - the Steam expansion continues</title>
+   <link href="/2022/03/14/March-w2/"/>
+   <updated>2022-03-14T00:00:00+09:00</updated>
+   <id>/website/2022/03/14/March-w2</id>
+   <content type="html">&lt;p&gt;The six first test achievements are in the game. They might changed or tweaked as the game progresses. I added local saves to the desktop version of the game. It was a HUGE mess. Had to change the library I use to create the jsons. It seems to be working. I have also managed to integrate the achievement system with Steam achievements, so that’s a win.&lt;/p&gt;
 
 &lt;p&gt;You can try the original version here: https://pidroh.github.io/GenericRPGIdle/
 You can try the remake here: https://pidroh.github.io/GenericRPGIdle/unstable_phaser&lt;/p&gt;
 
-&lt;p&gt;The remake has much better performance and will be the basis for the Steam version, so I will be focusing all development there.&lt;/p&gt;
-
-&lt;p&gt;Fixed some stuff on specific types of equipment. Got the remake running on Unity.&lt;/p&gt;
+&lt;p&gt;I did some small UI tweaks too.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;Here is the time table for this week (week 8 of 2022):&lt;/p&gt;
+&lt;p&gt;Here is the time table for this week (week 10 of 2022):&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:08 hrpg       : 30:05:00
-2022 W:08 manager    :  6:38:00
-2022 W:08 marketing  :  1:17:00
-2022 W:08 designer   :  1:08:00
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:10 hrpg       : 20:26:00
+2022 W:10 manager    :  6:31:00
+2022 W:10 marketing  :  0:29:00
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Got some nice performance this week since I stayed home for the weekend. That being said, I did find out that it is a submission process, which fails some people, for getting your game on Switch. I somehow thought it was super easy to get in. So being sucessful on Steam or another console would be a requirement. Life is complex hahaha. Not sure if I can realize my 2022 goal of publishing a game in consoles.&lt;/p&gt;
+&lt;p&gt;Once again I mixed manager times with designer times. And I think I screwed up tracking hours on Friday. I think that is what happened anyways.&lt;/p&gt;
+
+&lt;p&gt;And off we go!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>March 1st Week - Remade... Kinda</title>
+   <link href="/2022/03/07/March-w1/"/>
+   <updated>2022-03-07T00:00:00+09:00</updated>
+   <id>/website/2022/03/07/March-w1</id>
+   <content type="html">&lt;p&gt;I have added tests and automation to the new version of the game. I have not brought over every feature from the original version yet. The new version has also has some new features, like correct piercing bonuses in Heavy Swords and Bastard Swords.&lt;/p&gt;
+
+&lt;p&gt;You can try the original version here: https://pidroh.github.io/GenericRPGIdle/
+You can try the remake here: https://pidroh.github.io/GenericRPGIdle/unstable_phaser&lt;/p&gt;
+
+&lt;p&gt;Last week was mainly fixed bugs. This week, though, I’m starting to implement achievements into the game. Just 6 simple achievements as a test though, for starters.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 9 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:09 manager    :  4:05:00
+2022 W:09 marketing  :  0:40:00
+2022 W:09 hrpg       :  31:32:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I guess I ended up mixing designer times with manager times? Anyways, good times this week. I actually had a small accident and broke a tooth lol. But it’s already fixed. Dentists are fast, I tell you.&lt;/p&gt;
 
 &lt;p&gt;And off we go!&lt;/p&gt;
 </content>
