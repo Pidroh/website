@@ -4,13 +4,44 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-03-21T15:55:59+09:00</updated>
+ <updated>2022-03-29T14:26:49+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>March 4th Week - the Steam expansion continues (III)</title>
+   <link href="/2022/03/28/March-w4/"/>
+   <updated>2022-03-28T00:00:00+09:00</updated>
+   <id>/website/2022/03/28/March-w4</id>
+   <content type="html">&lt;p&gt;A lot of progress was made in keyboard support. There must still be some small bugs though. I’ll probably need a moving cursor if I want to make keyboard input more obvious.&lt;/p&gt;
+
+&lt;p&gt;Right now I’m implementing a feedback form while also solving some small issues. The feedback form is requiring me to code a server for the game, which is a whole new experience.&lt;/p&gt;
+
+&lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 11 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:12 hrpg       : 20:56:00
+2022 W:12 manager    :  3:14:00
+2022 W:12 marketing  :  0:14:00
+2022 W:12 designer   :  3:35:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This week wasn’t so productive. Had a fight with my SO which kinda threw me off balance emotionally :( things seem to be improving though.&lt;/p&gt;
+
+&lt;p&gt;It was gonna be keyboard =&amp;gt; achievements =&amp;gt; gamepad, but now it’s
+keyboard =&amp;gt; feedback form =&amp;gt; achievements =&amp;gt; gamepad&lt;/p&gt;
+
+&lt;p&gt;Gotta keep going.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>March 3rd Week - the Steam expansion continues (II)</title>
