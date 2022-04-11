@@ -4,13 +4,39 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-04-04T20:31:21+09:00</updated>
+ <updated>2022-04-11T19:39:44+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>April 2nd Week - The Grind (II)</title>
+   <link href="/2022/04/11/April-w2/"/>
+   <updated>2022-04-11T00:00:00+09:00</updated>
+   <id>/website/2022/04/11/April-w2</id>
+   <content type="html">&lt;p&gt;Added some popups, did some stuff with keyboard support, reorganized the beginning of the game a bit.&lt;/p&gt;
+
+&lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 14 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:14 marketing  :  1:02:00
+2022 W:14 hrpg       : 14:22:00
+2022 W:14 manager    :  2:48:00
+2022 W:14 designer   :  2:09:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This week… Was bad. My worst week in a long time lol. I guess the weekend wasn’t productive at all. And the week days also were not the best. I want to improve that by getting by sleep schedule in good pace.&lt;/p&gt;
+
+&lt;p&gt;Right now I’m redoing some stuff on the UI after some complaints. Things hopefully will look and feel better.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>April 1st Week - The Grind</title>
