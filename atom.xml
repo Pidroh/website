@@ -4,13 +4,36 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-05-16T14:40:38+09:00</updated>
+ <updated>2022-05-24T07:30:58+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>May 3rd Week - The Road to Steam Next Fest (III)</title>
+   <link href="/2022/05/24/May-w4/"/>
+   <updated>2022-05-24T00:00:00+09:00</updated>
+   <id>/website/2022/05/24/May-w4</id>
+   <content type="html">&lt;p&gt;I was going to add more polish to the demo but ended up coding a new system lol but I’ll reevaluate stuff to polish from tomorrow. I also tried posting a video devlog on the incremental sub reddit but that wasn’t such a good idea. The video is too boring if you don’t edit it and all.&lt;/p&gt;
+
+&lt;p&gt;You can try the game here: https://pidroh.github.io/GenericRPGIdle/&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 19 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:19 hrpg       : 31:48:00
+2022 W:19 manager    :  0:18:00
+2022 W:19 marketing  :  0:05:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The hours are nice. But the new system that I started coding is being a seed to stress. It’s one small system that is supposed to be part of a bigger system which also relates to the future games I can make. This makes me think about a thousand things. I’m a bit discouraged right now about the game and keep stressing myself out thinking about working on other games.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>May 3rd Week - The Road to Steam Next Fest (III)</title>
