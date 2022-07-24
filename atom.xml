@@ -4,13 +4,53 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-07-18T14:58:50+09:00</updated>
+ <updated>2022-07-25T06:55:14+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>July 4th Week - Preparing the Update</title>
+   <link href="/2022/07/25/July-w4/"/>
+   <updated>2022-07-25T00:00:00+09:00</updated>
+   <id>/website/2022/07/25/July-w4</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided to change directions. I decided on deprioritizing the story. So I won’t work on the story much until I can improve some of the things I’m not happy about in the game. Isabel’s story is a very small part of the GRI experience and You’s gameplay (I’m thinking of changing the name to Yuu) is pretty much the main meat of the game. I want to prioritize that first. I think that will result in a more engaging game and lay the fundation for improving both active gameplay and idle gameplay.&lt;/p&gt;
+
+&lt;p&gt;Right now I think that update 1 MIGHT have:
+A) Visual effects
+B) New exploration system
+C) more Unknown tab content
+D) Improved selling (maybe)
+E) New items and skills (maybe)&lt;/p&gt;
+
+&lt;p&gt;While update 2 MIGHT have:
+A) Visual effects and sound effects lol possibly music
+B) Chapter 2 maybe
+C) Offline progress and XP cap removal (maybe maybe)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 28 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:29 hrpg       : 23:58:00
+2022 W:29 manager    :  5:37:00
+2022 W:29 marketing  :  0:19:00
+2022 W:29 hstory     :  0:01:00
+2022 W:29 designer   :  2:24:00
+2022 W:29 monster    :  9:10:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Nice hours. I decided to increase the time I spend on the monster card game to around 8 hours. After adding very basic enemy behavior, the card game is ALMOST playable but full of bugs. Maybe I can get something playable in a week or two? Looking forward to that.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t have idle elements so I’m unsure on how I will get players at an early stage. I was thinking about keeping playtests private until the game is more polished. We will see.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>July 3rd Week - Steam Early Access released!!</title>
