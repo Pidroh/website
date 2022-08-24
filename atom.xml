@@ -4,13 +4,111 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-08-01T07:19:40+09:00</updated>
+ <updated>2022-08-25T07:11:17+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>August 4th Week - Rituals and Magic released!!</title>
+   <link href="/2022/08/25/August-w4/"/>
+   <updated>2022-08-25T00:00:00+09:00</updated>
+   <id>/website/2022/08/25/August-w4</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I released the content update and the game is up for sale. I’m still really far from 10 reviews. I’m a bit lost on what I’m going to do next. I need to think about the second major update to the game. Also need to figure out if I want to translate the game or not. I think I want to have Chinese, Japanese and German support for sure.&lt;/p&gt;
+
+&lt;p&gt;Next update:
+A) sound effects lol possibly music
+B) Chapter 2 maybe. Chapter 3 maybe?
+C) ???????????? Icons to the UI? Notifications on tabs? Actual animations during battle?
+D) Cooking??
+D) Offline progress (maybe?)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 33 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:33 hrpg       : 32:24:00
+2022 W:33 monster    :  9:12:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I haven’t really double checked those times not sure if they are correct. We’ll see how it goes. The card game prototype is advancing in the shadows. I have burned a lot of money on artists already for that game lol&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>August 3rd Week - Preparing the Update IV</title>
+   <link href="/2022/08/15/August-w3/"/>
+   <updated>2022-08-15T00:00:00+09:00</updated>
+   <id>/website/2022/08/15/August-w3</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am done with the update content. I’ll update the beta builds to try and catch more bugs and get going with the browser beta on Reddit. Maybe I can release the update next week? I don’t know. I’m also preparing a new trailer for the game. Last week was a bit stressful, as releases / updates usually are. But we’ll see how it goes. Hopefully the update goes well. I still need to update a bunch of stuff on the Steam page for it though&lt;/p&gt;
+
+&lt;p&gt;Update 1 should have:
+A) Everything included in the beta right now unless I am forced to remove something
+B) A little more arcania
+C) A little more exploration
+D) New items and skills&lt;/p&gt;
+
+&lt;p&gt;While update 2 MIGHT have:
+A) Visual effects and sound effects lol possibly music
+B) Chapter 2 maybe
+C) Offline progress (maybe maybe)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 32 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:32 hrpg       : 52:51:00
+2022 W:32 marketing  :  0:05:00
+2022 W:32 monster    :  4:06:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Today was my most “productive” week, but I’m pretty burned out. I want to release this update and take a mental rest. Not sure if I’ll actually do that though… Lol. Oh well. Let’s keep going! Just a bit more until I can release this!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>August 2nd Week - Preparing the Update III</title>
+   <link href="/2022/08/09/August-w2/"/>
+   <updated>2022-08-09T00:00:00+09:00</updated>
+   <id>/website/2022/08/09/August-w2</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After adding a bunch of content to the Unknown tab and adding the exploration mode for Lu (old name You), I decided to run a beta test. This is mainly because I’m worried about how players will receive the new system. The beta has been running for a while but nobody has said anything. Maybe the new exploration system doesn’t really make much of a difference? I don’t know.&lt;/p&gt;
+
+&lt;p&gt;Update 1 should have:
+A) Everything included in the beta unless I am forced to remove something
+B) A little more arcania
+C) A little more exploration
+D) New items and skills (maybe)&lt;/p&gt;
+
+&lt;p&gt;While update 2 MIGHT have:
+A) Visual effects and sound effects lol possibly music
+B) Chapter 2 maybe
+C) Offline progress (maybe maybe)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 31 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:31 hrpg       : 37:51:00
+2022 W:31 manager    :  0:49:00
+2022 W:31 marketing  :  3:51:00
+2022 W:31 monster    : 16:24:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I ended up not recording game designer tasks separately so a lot of thinking stuff ended up going into GRI development (hrpg), alongside getting ready for the beta and etc. As for monster, the card game, most of the time there was spent looking through artist submissions and giving instructions to the artist I plan to work with. The artist is not for card / monster design, but for character design. Let’s see how that project goes.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>August 1st Week - Preparing the Update II</title>
