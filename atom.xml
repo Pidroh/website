@@ -4,13 +4,46 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-08-25T07:11:17+09:00</updated>
+ <updated>2022-09-02T14:21:38+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>September 1st week - After the update...?</title>
+   <link href="/2022/09/02/September-w1/"/>
+   <updated>2022-09-02T00:00:00+09:00</updated>
+   <id>/website/2022/09/02/September-w1</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m getting closer to 10 reviews but still far. Lately I have decided to improve the UI of the game. More like a complete remake of what the game looks like right now hahahaha. I want to remake mainly the equipment screen and the battle screen. I don’t know how the update of the battle screen is gonna go though.  There are too many weapons and paying a artist to animate all the weapons and skills would be complicated. I’m still thinking through this. Wish I could do a kickstarter, but a kickstarter for an idle game is something I have never heard of before. Maybe I should be a pioneer?&lt;/p&gt;
+
+&lt;p&gt;Next update:
+A) Equipment screen update
+B) Chapter 2 maybe. Chapter 3 maybe?
+C) ???????????? Icons to the UI? Notifications on tabs? 
+D) Cooking??
+D) Offline progress (maybe?)&lt;/p&gt;
+
+&lt;p&gt;I should be done remaking the equipment UI fairly soon. Then I need to stop and decide on what to do next. I really want to do notification on tabs and other QOL stuff. I feel like that should be done before I move on to remaking the battle graphics. I’m giving a wild guess here, but I think Generic RPG Idle should stay in early access for around four to six months? So I can really improve the experience before launch. Honestly I wasn’t expecting to develop for so long. If I somehow manage to remake the battle screen BEFORE 2022 ends, I will try to pitch the game to Nintendo. Hopefully by then I will have 10 reviews?&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week (week 34 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:34 hrpg       : 28:00:00
+2022 W:34 monster    : 12:58:00
+2022 W:34 manager    :  1:27:00
+2022 W:34 marketing  :  1:13:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Things are progressing. I want to reveal the Steam page for the card game soon. Maybe in one or two months? Maybe less.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>August 4th Week - Rituals and Magic released!!</title>
