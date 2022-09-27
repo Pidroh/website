@@ -4,13 +4,47 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-09-22T21:20:13+09:00</updated>
+ <updated>2022-09-27T21:34:16+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>September 4th week - Remaking the UI III </title>
+   <link href="/2022/09/27/September-w4/"/>
+   <updated>2022-09-27T00:00:00+09:00</updated>
+   <id>/website/2022/09/27/September-w4</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The battle UI is almost done. There are just some small features and animations that need to be redone. I’m starting to get excited about this. The game just feels different. Can’t wait to get this to players.&lt;/p&gt;
+
+&lt;p&gt;Next update:
+A) Equipment screen update
+B) Battle screen update
+B) Chapter 2 maybe. Chapter 3 maybe?
+C) ???????????? Icons to the UI? Notifications on tabs?  (partially)
+D) Cooking?? (unlikely)
+D) Offline progress (unlikely)&lt;/p&gt;
+
+&lt;p&gt;I am now at 8 reviews! Only two more people to get to 10! 
+&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_
+&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_&lt;/p&gt;
+
+&lt;p&gt;Here is the time table for this week and last week (week 38 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:38 burocracy  :  0:48:00
+2022 W:38 hrpg       : 23:05:00
+2022 W:38 monster    :  1:33:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Productivity is still a bit down lately. Wonder why. Still, I have a full time job… Maybe my productivity was just too high before?&lt;/p&gt;
+
+&lt;p&gt;Anyways, I’ll keep going!! Hopefully this visual update boosts sales significantly.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>September 3rd week - Remaking the UI II </title>
