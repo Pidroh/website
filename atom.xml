@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-10-17T19:41:48+09:00</updated>
+ <updated>2022-10-24T08:17:38+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,33 +13,85 @@
 
  
  <entry>
-   <title>October 3rd week - Halloween...? </title>
+   <title>October 4th week - Halloween is coming people!</title>
+   <link href="/2022/10/24/October-w4/"/>
+   <updated>2022-10-24T00:00:00+09:00</updated>
+   <id>/website/2022/10/24/October-w4</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The halloweeen content is ready to be published! I’ll do it tonight I think, just to be sure.&lt;/p&gt;
+
+&lt;p&gt;Next update:
+A) Boss, skills and equipment mods (related to blood mechanics)&lt;/p&gt;
+
+&lt;p&gt;Event announcement: https://store.steampowered.com/app/1858120/Generic_RPG_Idle/&lt;/p&gt;
+
+&lt;p&gt;I decided to not put in music yet. I need to polish things up and make sure I’m not making anything annoying. I might wait until I have sound effects to put music in. And to make sound effects, I want to have a final version of what the game will play like. So I’m now trying to decide on how much I’ll prettify and animate the game. This is a hard decision for me because I don’t want to spend a long time doing this. So I’ll try to be very selective about what I polish. I guess the criteria should be:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How easily reusable is this improvement for other projects?&lt;/li&gt;
+  &lt;li&gt;How fast can I make it?&lt;/li&gt;
+  &lt;li&gt;Do I have a good reference to use when making the polish?&lt;/li&gt;
+  &lt;li&gt;Does the polish look good on trailers?&lt;/li&gt;
+  &lt;li&gt;Does the polish make the game easier to understand?
+    &lt;ul&gt;
+      &lt;li&gt;makes it easier for people who just started to understand the game&lt;/li&gt;
+      &lt;li&gt;visualized that actions happened&lt;/li&gt;
+      &lt;li&gt;how actions actually work&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How often will new players see this polish?&lt;/li&gt;
+  &lt;li&gt;how often will long-term players see this polish?&lt;/li&gt;
+  &lt;li&gt;Is the polish making the game prettier but less enjoyable to play somehow?
+&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is the time table for this week and last week (week 42 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:42 hrpg       : 11:10:00
+2022 W:42 manager    :  0:19:00
+2022 W:42 company    :  1:31:00
+2022 W:42 monster    : 14:45:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Productivity is down. Lately Netflix has been getting to me. And thinking about polishing Generic RPG Idle is a bit discouraging because it’s hard to make decisions. I don’t like some things about how the game looks right now and I want to fix it by remaking everything in pixel art which I absolutely WILL NOT do. Only for a complete sequel / spiritual successor. So things are a bit discouraging.&lt;/p&gt;
+
+&lt;p&gt;Let’s gooo Halloweeeeeeeeeeeeeeen!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>October 3rd week - Halloween? And music </title>
    <link href="/2022/10/17/October-w3/"/>
    <updated>2022-10-17T00:00:00+09:00</updated>
    <id>/website/2022/10/17/October-w3</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;I released a small beta for the changes. I got some nice feedback and made some adjustments. Things SEEM fine. No bugs coming up yet.&lt;/p&gt;
+&lt;p&gt;The graphics update launched. Natural sales from Steam aren’t getting boosted as much as I thought. Maybe it didn’t change anything which is interesting. I’m a bit relieved it didn’t somehow make the game perform worse. Of course the data I have isn’t “scientific” so I’m speculating on small data, but never the less, it did not make any significant change in revenue for better or for worse for natural Steam traffic.&lt;/p&gt;
+
+&lt;p&gt;But I guess Reddit comments are getting boosted…? Maybe…? Maybe not.&lt;/p&gt;
+
+&lt;p&gt;This is all a bit surprising. Perhaps I should stick to minimalistic games and focus more on better systems instead of pixel art. Then once I arrive at something I love, I can create a bigger budget game and go full power. Food for thought.&lt;/p&gt;
+
+&lt;p&gt;I am preparing some halloween content. And also music.&lt;/p&gt;
 
 &lt;p&gt;Next update:
-A) Equipment screen update
-B) Battle screen update
-C) Chapter 2
-D) QOL&lt;/p&gt;
+A) Halloween content
+B) Music maybe&lt;/p&gt;
 
-&lt;p&gt;The boost from 10 reviews was dying but then I posted the game on feedback friday asking for feedback on the beta. Some folks ignored the beta instructions part and just bought the game straight away. I think the (positive) label is also improving quality of when I post the game for people to see. People know the game isn’t broken because of the positive reviews and all. This is just a theory, but since conversion rate is probably increased, every person I send to Steam is a high quality visit which makes Steam want to promote the page a little bit. And since conversion rate is also up when Steam promotes the page, the boost is bigger. What I want to say is that the 10 reviews thing really creates a cummulative positive effect for everything you do Steam related.
-&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Here is the time table for this week and last week (week 40 of 2022):&lt;/p&gt;
+&lt;p&gt;Here is the time table for this week and last week (week 41 of 2022):&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:40 hrpg       : 36:05:00
-2022 W:40 company    : 12:26:00
-2022 W:40 manager    :  2:15:00
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:41 hrpg       : 28:44:00
+2022 W:41 manager    :  2:05:00
+2022 W:41 monster    : 11:15:00
+2022 W:41 company    : 10:33:00
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;PRODUCTIVITY IS BACK BABY! Didn’t even notice it. I think it’s because I got pretty engaged in finish up the update. Also I finished a big part of the documents of registering the company. It already exists and all. After I get the tax information set up I’ll transfer my Steam games to the company.&lt;/p&gt;
+&lt;p&gt;Productivity is still nice. I’m back to allocating time to the card game which is plenty of fun to think about too. But it’s getting a bit blocked by company documents.&lt;/p&gt;
 
-&lt;p&gt;Goooooooooooo!&lt;/p&gt;
+&lt;p&gt;Let’s gooo Halloweeeeeeeeeeeeeeen!&lt;/p&gt;
 </content>
  </entry>
  
