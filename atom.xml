@@ -4,13 +4,67 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-10-31T05:50:56+09:00</updated>
+ <updated>2022-11-07T08:16:43+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>November 1st week - Halloween released!</title>
+   <link href="/2022/11/07/November-w1/"/>
+   <updated>2022-11-07T00:00:00+09:00</updated>
+   <id>/website/2022/11/07/November-w1</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I released the halloween update. I didn’t advertise the event because I’m trying to focus more on long-term goals (getting the new GRI update going and start planning the next update) than short-term ones (making extra money). I’m thinking there might be only 1~3 updates until launch. I mean 1 update =&amp;gt; final update for release.&lt;/p&gt;
+
+&lt;p&gt;Next update:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sounds and music, new animations and effects&lt;/li&gt;
+  &lt;li&gt;MAYBE: more unknown tab content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The polish criteria is still this:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;How easily reusable is this improvement for other projects?&lt;/li&gt;
+  &lt;li&gt;How fast can I make it?&lt;/li&gt;
+  &lt;li&gt;Do I have a good reference to use when making the polish?&lt;/li&gt;
+  &lt;li&gt;Does the polish look good on trailers?&lt;/li&gt;
+  &lt;li&gt;Does the polish make the game easier to understand?
+    &lt;ul&gt;
+      &lt;li&gt;makes it easier for people who just started to understand the game&lt;/li&gt;
+      &lt;li&gt;visualized that actions happened&lt;/li&gt;
+      &lt;li&gt;how actions actually work&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How often will new players see this polish?&lt;/li&gt;
+  &lt;li&gt;how often will long-term players see this polish?&lt;/li&gt;
+  &lt;li&gt;Is the polish making the game prettier but less enjoyable to play somehow?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But I found a sound guy and want to get it done.
+So I don’t think I’ll be adding any additional effects other than what I have planned. Might enhance what is already there though. Maybe that’s more of sequel material though.
+&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_&lt;/p&gt;
+
+&lt;p&gt;Here is the time table for this week and last week (week 44 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:44 hrpg       : 21:15:00
+2022 W:44 manager    :  1:08:00
+2022 W:44 monster    : 18:25:00
+2022 W:44 designer   :  0:16:00
+2022 W:44 housework  :  0:19:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Productivity is okay but I have been playing Loop Hero which is a big time drain. It gave me some ideas about game structure (game has some nice game structure ideas though nothing ideal) but I don’t want to explore that direction too much right now. The monster project which is progressing nicely and I might have something to show for it in December!&lt;/p&gt;
+
+&lt;p&gt;I also made a website lol a bit sooner than what I expected but it’s there. I’ll probably change the discord channel name to suit the new developer name I’ll be using. (Finally retiring “Pidroh”).&lt;/p&gt;
+
+&lt;p&gt;Best in life to all!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>October 4th week - Halloween is coming people!</title>
