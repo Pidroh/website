@@ -4,13 +4,134 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-11-07T08:16:43+09:00</updated>
+ <updated>2022-11-28T09:42:51+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>November 4th week - Working and Waiting Part 2</title>
+   <link href="/2022/11/28/November-w4/"/>
+   <updated>2022-11-28T00:00:00+09:00</updated>
+   <id>/website/2022/11/28/November-w4</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The sound guy is working on the game and it is taking time.
+Meanwhile, I just do some small fixes and additions in Generic RPG Idle.
+As for the card game, I spent the whole weekend preparing the base material for an animation. It was a bit crazy.&lt;/p&gt;
+
+&lt;p&gt;Next GRI update:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sounds and music, new animations and effects&lt;/li&gt;
+  &lt;li&gt;MAYBE: more unknown tab content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week and last week (week 46 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:46 manager    :  1:08:00
+2022 W:46 hrpg       : 22:55:00
+2022 W:46 monster    : 18:28:00
+2022 W:46 study      :  0:20:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Productivity didn’t change much from last week. Spent less time studying and more time pixeling. It was the first time I spend over 10 hours on Aseprite. Hopefully it pays off soon.&lt;/p&gt;
+
+&lt;p&gt;Best in life to all!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>November 3rd week - Working and Waiting</title>
+   <link href="/2022/11/21/November-w3/"/>
+   <updated>2022-11-21T00:00:00+09:00</updated>
+   <id>/website/2022/11/21/November-w3</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The sound guy is working on the game and it is taking time.
+Meanwhile, I just do some small fixes and additions in Generic RPG Idle.
+As for the card game, I spent the whole weekend preparing the base material for an animation. It was a bit crazy.&lt;/p&gt;
+
+&lt;p&gt;Next GRI update:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sounds and music, new animations and effects&lt;/li&gt;
+  &lt;li&gt;MAYBE: more unknown tab content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week and last week (week 46 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:46 manager    :  1:08:00
+2022 W:46 hrpg       : 22:55:00
+2022 W:46 monster    : 18:28:00
+2022 W:46 study      :  0:20:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Productivity didn’t change much from last week. Spent less time studying and more time pixeling. It was the first time I spend over 10 hours on Aseprite. Hopefully it pays off soon.&lt;/p&gt;
+
+&lt;p&gt;Best in life to all!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>November 2nd week - Aftermath!</title>
+   <link href="/2022/11/14/November-w2/"/>
+   <updated>2022-11-14T00:00:00+09:00</updated>
+   <id>/website/2022/11/14/November-w2</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I worked on implementing some animations I had ordered from pixel artists into the game. It is still not done as there is a bit of programming backbone to make it.&lt;/p&gt;
+
+&lt;p&gt;Since one of the players has cleared all of the unknown tab content I feel like I want to increase the priority of adding more unknown tab content to the game. We’ll see how it goes.&lt;/p&gt;
+
+&lt;p&gt;As for the card game, I spent time on the Steam page and researching some stuff. I should be announcing something next Month. Might get delayed.&lt;/p&gt;
+
+&lt;p&gt;Next update:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sounds and music, new animations and effects&lt;/li&gt;
+  &lt;li&gt;MAYBE: more unknown tab content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The sound guy I found should start working on it today. It’s going to cost quite a bit of money but let’s see how it goes.&lt;/p&gt;
+
+&lt;p&gt;The polish criteria is still this:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;How easily reusable is this improvement for other projects?&lt;/li&gt;
+  &lt;li&gt;How fast can I make it?&lt;/li&gt;
+  &lt;li&gt;Do I have a good reference to use when making the polish?&lt;/li&gt;
+  &lt;li&gt;Does the polish look good on trailers?&lt;/li&gt;
+  &lt;li&gt;Does the polish make the game easier to understand?
+    &lt;ul&gt;
+      &lt;li&gt;makes it easier for people who just started to understand the game&lt;/li&gt;
+      &lt;li&gt;visualized that actions happened&lt;/li&gt;
+      &lt;li&gt;how actions actually work&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How often will new players see this polish?&lt;/li&gt;
+  &lt;li&gt;how often will long-term players see this polish?&lt;/li&gt;
+  &lt;li&gt;Is the polish making the game prettier but less enjoyable to play somehow?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for this week and last week (week 45 of 2022):&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:45 manager    :  0:15:00
+2022 W:45 monster    : 18:10:00
+2022 W:45 study      :  4:35:00
+2022 W:45 hrpg       : 18:20:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Productivity is good, I think. Time spent in the card game (monster) and in GRI (hrpg) are around the same. I spent four hours studying indie game development process too, which will be nice for both the card game and my next titles. Hopefully.&lt;/p&gt;
+
+&lt;p&gt;Best in life to all!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>November 1st week - Halloween released!</title>
