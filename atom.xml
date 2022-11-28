@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2022-11-28T09:42:51+09:00</updated>
+ <updated>2022-11-28T09:45:43+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -19,9 +19,8 @@
    <id>/website/2022/11/28/November-w4</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The sound guy is working on the game and it is taking time.
-Meanwhile, I just do some small fixes and additions in Generic RPG Idle.
-As for the card game, I spent the whole weekend preparing the base material for an animation. It was a bit crazy.&lt;/p&gt;
+&lt;p&gt;Still waiting for the sound effects… Also waiting for an animation for the card game.
+I also took some time to work on a game jam! I couldn’t actually submit (first time in my life that I enter in a gamejam and don’t submit). The main reason is because I wanted to implement a very specific battle system and prioritized that more than the game jam. I didn’t even finish the game logic.&lt;/p&gt;
 
 &lt;p&gt;Next GRI update:&lt;/p&gt;
 &lt;ul&gt;
@@ -31,17 +30,19 @@ As for the card game, I spent the whole weekend preparing the base material for 
 
 &lt;hr /&gt;
 
-&lt;p&gt;Here is the time table for this week and last week (week 46 of 2022):&lt;/p&gt;
+&lt;p&gt;Here is the time table for this week and last week (week 47 of 2022):&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:46 manager    :  1:08:00
-2022 W:46 hrpg       : 22:55:00
-2022 W:46 monster    : 18:28:00
-2022 W:46 study      :  0:20:00
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:47 monster    :  4:59:00
+2022 W:47 manager    :  2:09:00
+2022 W:47 hrpg       : 21:50:00
+2022 W:47 study      :  4:27:00
+2022 W:47 gamejam    : 13:27:00
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Productivity didn’t change much from last week. Spent less time studying and more time pixeling. It was the first time I spend over 10 hours on Aseprite. Hopefully it pays off soon.&lt;/p&gt;
+&lt;p&gt;Productivity was nice.
+For a couple of the next weeks, I think the time I use on GRI (hrpg) will become a bit lower. I am currently preparing to send the game to Nintendo and I’ll wait a bit for their response.&lt;/p&gt;
 
-&lt;p&gt;Best in life to all!&lt;/p&gt;
+&lt;p&gt;Let’s goo!&lt;/p&gt;
 </content>
  </entry>
  
