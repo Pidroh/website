@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2023-01-10T08:16:54+09:00</updated>
+ <updated>2023-01-16T21:27:24+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,31 +13,56 @@
 
  
  <entry>
-   <title>December 4th Week - Merry Christmas & development full speed ahead!</title>
+   <title>January Week 2 - GRI Beta is up!!</title>
+   <link href="/2023/01/16/January-w2/"/>
+   <updated>2023-01-16T00:00:00+09:00</updated>
+   <id>/website/2023/01/16/January-w2</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;CARD NOVA / GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have FINALLY finished the “Sound of Art” update for Generic RPG Idle, which adds sound to the game. This one required collaboration with multiple professionals to make happen. Good thing is my sound code is fairly stable now. That means I’ll have an easier time when doing sound for CARD NOVA!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=pj6t1ohP9g4&quot;&gt;===&amp;gt; NEW TRAILER &amp;lt;===&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have a beta available for the new version of GRI, instructions are here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://store.steampowered.com/news/app/1858120/view/5281067109624265833&quot;&gt;Beta instructions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Card Nova’s prototype is going well. I am considering sharing some WIP artwork, not sure.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for week 2:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2023 W:02 monster    	 : 34:45:00
+2023 W:02 manager    	 :  1:24:00
+2023 W:02 hrpg       	 : 13:23:00
+2023 W:02 monster_stream :  1:40:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I streamed! And I also measured it. It increases my concentration, so I am trying to stream development. I don’t really have a schedule right now, just do it periodically. I’ll try to expand the number of hours I stream weekly, if it feels sustainable I’ll consider deciding on a schedule.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>January Week 1 and happy new year!</title>
    <link href="/2023/01/10/January-w1/"/>
    <updated>2023-01-10T00:00:00+09:00</updated>
    <id>/website/2023/01/10/January-w1</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;CARD NOVA / GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The launch of the Steam page for CARD NOVA HYPER has been going extremely well, having being covered by sites all across the globe.&lt;/p&gt;
+&lt;p&gt;Hey, everyone! 
+This week I finished up creating/polishing the music / sfx system for GRI. Then I fixed some weird bugs I found. Next I wanna do some QOL stuff that one user asked for. 
+GRI for Switch is still not guaranteed.&lt;/p&gt;
 
-&lt;p&gt;And finally I got the assets I need for GRI. I’ll reveal the new trailer later! Currently implementing all the sounds and the music system. GRI is going steady. I want to fix a bloating problem with the save system that has been around for a long time, so that might take some time and possibly introduce bugs, which scare me. But gotta do it now.&lt;/p&gt;
+&lt;p&gt;For Card Nova, I am making a prototype and seeing how localization would work. Yeah, I wanna get localization working very early so that I can localize the game more freely. The very early prototype I have for the card game allows players to upgrade their cards and fight duels. It’s not exactly the most playable prototype, but it’s there. I’m currently seeing how to render Chinese characters and I think I found a nice font (if not too small).&lt;/p&gt;
 
-&lt;p&gt;I contacted Nintendo and I’m waiting for their reply…&lt;/p&gt;
+&lt;p&gt;Wishlist behavior for Card Nova has been very different from GRI. The game exploded. And then faded. Steam page reveal Wishlists for Card Nova were much higher than GRI. Even before press coverage. But after a couple of weeks, Wishlist count is lower than GRI. I’m not sure on what to think of this. 
+My current theory is that my tag setup gives you a lot of Wishlists when your game is booming (“newly added page”, new trailer, etc) by showing it in popular game pages. But not so much when things are going slow. While Generic RPG Idle only shows up in other niche games, so even a slow week is a healthy week, kinda? I might retag Card Nova Hyper by rexamining what I should compete with.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Here is the time table for this week and last week (week 51 of 2022):&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2022 W:51 monster    : 27:01:00
-2022 W:51 manager    :  0:52:00
-2022 W:51 hrpg       : 16:46:00
-2022 W:51 marketing  :  0:58:00
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Times have been great and progress on both games is going nicely. 2022 is about to end and I’m glad I got this far. I have had the goals of pitching the game to Nintendo and launching the Card game steam page for quite some time now, nice to see that I finally reached both stages. While CARD NOVA HYPER will only release in 2024, I have many plans for 2023. One of those should be GRI leaving early access next year. If the stars align, maybe GRI comes to Nintendo Switch in 2023? We will see!!&lt;/p&gt;
-
-&lt;p&gt;Next time I write one of those is gonna be 2024!&lt;/p&gt;
+&lt;p&gt;No time table for this week. End of the year always bugs my data and I don’t really wanna fix it. It was a good week though.
+Hope 2023 is going great for everyone and gets even better.&lt;/p&gt;
 </content>
  </entry>
  
