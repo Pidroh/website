@@ -4,13 +4,76 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2023-02-20T20:34:31+09:00</updated>
+ <updated>2023-03-06T19:40:23+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>March Week 1 - GRI is back and the rise of Nostalpix</title>
+   <link href="/2023/03/06/March-w1/"/>
+   <updated>2023-03-06T00:00:00+09:00</updated>
+   <id>/website/2023/03/06/March-w1</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;CARD NOVA / GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I wrote a bunch of cutscenes for GRI and worked on the achievement system. Current the project put on hold is now Neos. Since I have a deadline for Steam next fest now, unfortunately I don’t now how much I want to invest into Neos.&lt;/p&gt;
+
+&lt;p&gt;So I am working on something called Nostalpix. It’s related to Card Nova Hyper. I’ll be able to unveil Nostalpix within the next 10 days. Nostalpix was supposed to get a trailer, but I think it will be unveiled first without a trailer while I work on the trailer. Unless things line up magically lol. Well, we’ll see.&lt;/p&gt;
+
+&lt;p&gt;This week will see more GRI cutscenes and maybe more work on achievements too. Not sure if I can write every cutscene this week, probably not.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for week 9 of 2023:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2023 W:09 neos       :  2:07:00
+2023 W:09 monster    : 22:02:00
+2023 W:09 hrpg       : 11:05:00
+2023 W:09 manager    :  1:44:00
+2023 W:09 burocracy  :  0:03:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;So yeah, the numbers are far from peak numbers… I was a bit busy during the weekend too. I guess anything around 30 hours is good enough considering I have a full time job.&lt;/p&gt;
+
+&lt;p&gt;I personally can’t wait to see what will happen around Nostalpix.&lt;/p&gt;
+
+&lt;p&gt;Godspeed!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>February Week 4 - Daddy's home! I mean Gri's home</title>
+   <link href="/2023/02/27/February-w4/"/>
+   <updated>2023-02-27T00:00:00+09:00</updated>
+   <id>/website/2023/02/27/February-w4</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;CARD NOVA / GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok, three weeks are done. I’m back at GRI. Already did some stuff today. Created a new bundle for Generic RPG Idle + Daily Espada! This will give a discount to people who own one game but not the other. https://store.steampowered.com/bundle/30487/Darkness_of_Brazil/&lt;/p&gt;
+
+&lt;p&gt;So this week I did more Card Nova Hyper prototype polishing. Finished setting up Neos and have started adding support for big numbers to the engine. Those are necessary for bigger numbers to be handled by the program correctly.&lt;/p&gt;
+
+&lt;p&gt;I have also released the browser version of GRI on Armor Games! That release is going quite well. https://armorgames.com/generic-rpg-idle-sound-of-art-game/19338&lt;/p&gt;
+
+&lt;p&gt;I’m currently supposed to be preparing a new Steam page for a project related to Card Nova Hyper… But no idea if the Steam page will open up with a trailer or if I’ll add a trailer later. I think it’s a bit too late to try and add a really good trailer before March 16. I can make an okay-ish trailer by then though, I believe. Not too sure on if it’s better to have no trailer or a “mediocre” trailer…&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for week 8 of 2023:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2023 W:08 monster    : 23:22:00
+2023 W:08 marketing  :  1:56:00
+2023 W:08 manager    :  3:04:00
+2023 W:08 neos       :  8:37:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;More productive than last week, which is nice.
+Anyways, for this week with GRI, I am going to iterate a bit on Steam assets, I think. Then I’ll go back to writing chapter 3. I wonder if I’ll end up splitting chapter 3 into two chapters. I don’t think so but who knows… We’ll see how it goes.&lt;/p&gt;
+
+&lt;p&gt;Let’s goo!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>February Week 3 - One Last Week of no GRI</title>
