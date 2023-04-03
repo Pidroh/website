@@ -4,13 +4,44 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2023-03-27T09:49:11+09:00</updated>
+ <updated>2023-04-03T22:05:48+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
    <email>gabrielpff2@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>April Week 1 - More cutscenes and Achievements almost done!</title>
+   <link href="/2023/04/03/April-w1/"/>
+   <updated>2023-04-03T00:00:00+09:00</updated>
+   <id>/website/2023/04/03/April-w1</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;CARD NOVA / GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally done with achievements for GRI… Almost. I still need to integrate it with the Steam API. But hey, it’s in the game and it’s functional!&lt;/p&gt;
+
+&lt;p&gt;Still not done with the story.&lt;/p&gt;
+
+&lt;p&gt;For Card Nova I made a bunch of new card effects. The effect system is becoming more robust. I’m liking the way I’m doing effects, I wanna start thinking about more synergies. That’s gonna be fun to implement.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for week 13 of 2023:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2023 W:13 monster    : 19:58:00
+2023 W:13 manager    :  1:36:00
+2023 W:13 burocracy  :  3:25:00
+2023 W:13 neos       :  0:26:00
+2023 W:13 hrpg       :  8:36:00
+2023 W:13 housework  :  0:46:00
+2023 W:13 marketing  :  1:29:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;And more tax lol. Gonna book a consultation tomorrow.&lt;/p&gt;
+
+&lt;p&gt;Let’s goo!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>March Week 4 - More cutscenes and Achievements [2]</title>
