@@ -4,7 +4,7 @@
  <title>Pidroh</title>
  <link href="/website/atom.xml" rel="self"/>
  <link href="/website/"/>
- <updated>2023-04-17T08:19:40+09:00</updated>
+ <updated>2023-04-24T09:35:54+09:00</updated>
  <id></id>
  <author>
    <name>Pedro Gabriel Fonteles Furtado</name>
@@ -13,7 +13,37 @@
 
  
  <entry>
-   <title>April Week 2 - Integrated chapter 3  </title>
+   <title>April Week 4 - New equipment UI + almost done with writing the story </title>
+   <link href="/2023/04/24/April-w4/"/>
+   <updated>2023-04-24T00:00:00+09:00</updated>
+   <id>/website/2023/04/24/April-w4</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;CARD NOVA / GENERIC RPG WEEKLY REPORT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;new-equipment-ui-qol-and-only-missing-the-epilogue-for-the-story&quot;&gt;New equipment UI, QOL, and only missing the epilogue for the story!!&lt;/h1&gt;
+
+&lt;p&gt;I’m only missing the epilogue for the story to be over. Also remade the equipment UI to no longer use a hover. The hover was causing many issues for many players.&lt;/p&gt;
+
+&lt;p&gt;For Card Nova Hyper, making more card effects. I think I’m done with the effects necessary for the demo. It’s fun building synergies. I finished the promotional art too which looks great. Not me, my artist, but, anyways, yeah. Now I’m just debugging the demo / pre-alpha.&lt;/p&gt;
+
+&lt;p&gt;Lately I have been thinking about buying a house lol we’ll see how that goes.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is the time table for week 16 of 2023:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2023 W:16 hrpg       :  8:52:00
+2023 W:16 manager    :  0:56:00
+2023 W:16 burocracy  :  2:19:00
+2023 W:16 marketing  :  7:09:00
+2023 W:16 monster    :  12:37:00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;I’m not sure how I feel about these times. I’m definitely using up a lot of time on marketing but it doesn’t feel like it’s wasted time. Let’s just see if I can get results with that. Preparing some stuff for a maillist. This feels more like fundational marketing, kinda. Not really guerrilla marketing. Like building the base for people to get to know me and the game. Kinda. No idea what I’m doing actually.&lt;/p&gt;
+
+&lt;p&gt;Let’s goo!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>April Week 3 - Integrated chapter 3  </title>
    <link href="/2023/04/17/April-w3/"/>
    <updated>2023-04-17T00:00:00+09:00</updated>
    <id>/website/2023/04/17/April-w3</id>
